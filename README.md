@@ -81,8 +81,10 @@ This application allows users to manage student academic records with authentica
 ## 📂 Project Structure
 
 Student-Grade-Tracker:
-  -DBConnection.java
-  -StudentGradeTrackerGUI.java
-  -students.db (auto generated)
-  -README.md
-  -lib/ (iText jar files)
+  - DBConnection.java
+  - StudentGradeTrackerGUI.java
+  - students.db (auto generated)
+  - README.md
+  - lib/ (iText jar files)
+
+---
