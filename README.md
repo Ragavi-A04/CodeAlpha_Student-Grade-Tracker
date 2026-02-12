@@ -63,7 +63,7 @@ This application allows users to manage student academic records with authentica
 ![Report](Screenshots/Update.png)
 
 ### 📄 PDF Output
-![PDF Download](Screenshots/Pdf downloded.png)
+![PDF Download](https://github.com/Ragavi-A04/CodeAlpha_Student-Grade-Tracker/blob/main/Screenshots/Pdf%20downloded.png)
 ![PDF](Screenshots/ViewPdf.png)
 
 ## Find Topper
