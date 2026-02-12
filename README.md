@@ -45,6 +45,34 @@ This application allows users to manage student academic records with authentica
 - Structured header on all pages
 
 ---
+## 📸 Screenshots
+### Sign up
+![Sign up / CreateAccount](Screenshots/signup.png)
+### 🔐 Login Page
+![Login](Screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### ➕ Add Student
+![Add Student](Screenshots/AddStudent.png)
+
+### 📑 View Student Report
+![Report](Screenshots/ViewStudent.png)
+- Update Student Details
+![Report](Screenshots/Update.png)
+
+### 📄 PDF Output
+![PDF Download](Screenshots/Pdf downloded.png)
+![PDF](Screenshots/ViewPdf.png)
+
+## Find Topper
+![OverAll Topper](Screenshots/FindTopper.png)
+
+## Pass Percentage
+![OverAll Pass Percentage](Screenshots/passpercentage.png)
+
+---
 
 ## 🛠 Technologies Used
 
