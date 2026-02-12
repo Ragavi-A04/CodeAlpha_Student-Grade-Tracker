@@ -1,0 +1,15 @@
+Name: Vani
+Roll No: 9475
+Average: 84.33
+Grade: B
+---------------------------
+Name: Velu
+Roll No: 3566
+Average: 95.00
+Grade: A
+---------------------------
+Name: Bala
+Roll No: 2098
+Average: 22.67
+Grade: Fail
+---------------------------
